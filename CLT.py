@@ -18,3 +18,13 @@ print("\nnp.max of 'office['transactions']': ", np.max(office['transactions']))
 print("\nnp.var of test_list: ", np.var(test_list))
 print("\nnp.ptp of test_tuple: ", np.ptp(test_tuple))
 print("\nnp.sqrt of 72: ", np.sqrt(72))
+
+# helpful numpy functions:
+
+# np.mean - For calculating a mean
+# np.std - For calculating standard deviation
+# np.var - For calculating variance
+# np.ptp - For calculating range (ptp stands for "point to point")
+# np.sqrt - For taking the square root of a number (instead of x ** .5)
+# np.min - For finding the minimum value of a collection
+# np.max - For finding the maximum value of a collection
