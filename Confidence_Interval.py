@@ -37,5 +37,5 @@ z_mult = stats.norm.interval(alpha)[1]
 lower = diff - z_mult * se
 upper = diff + z_mult * se
 
-print(lower)
-print(upper)
+print('lower endpoint: ', lower)
+print('upper endpoint: ', upper)

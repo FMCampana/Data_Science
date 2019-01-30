@@ -52,7 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CLT.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="493">
+              <caret line="29" column="56" lean-forward="true" selection-start-line="21" selection-end-line="29" selection-end-column="56" />
               <folding>
                 <element signature="e#13#40#0" expanded="true" />
               </folding>
@@ -126,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CLT">
+  <component name="RunManager" selected="Python.Confidence_Interval">
     <configuration name="CLT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +141,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Confidence_Interval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data_Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Confidence_Interval.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,9 +194,11 @@
     <list>
       <item itemvalue="Python.Confidence_Interval2" />
       <item itemvalue="Python.CLT" />
+      <item itemvalue="Python.Confidence_Interval" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Confidence_Interval" />
         <item itemvalue="Python.CLT" />
         <item itemvalue="Python.Confidence_Interval2" />
       </list>
@@ -184,7 +208,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -239,7 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CLT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="493">
+          <caret line="29" column="56" lean-forward="true" selection-start-line="21" selection-end-line="29" selection-end-column="56" />
           <folding>
             <element signature="e#13#40#0" expanded="true" />
           </folding>
