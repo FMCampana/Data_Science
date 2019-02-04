@@ -1,13 +1,12 @@
 import numpy as np
 import scipy.stats as stats
 
-### GRADED
+
 ### Calculate the 95% confidence interval (with a Z- (NORMAL) DISTRIBUTION)
 ### of the difference of the means of the collections stored in obs1 and obs2
 ### NOTE: Specifically find the CI for the mean of obs1 - mean of obs2
 ### Assign the lower bound as a number to "lower" and the upper bound as a number to "upper"
 ### Answers will be tested to three decimal places
-### YOUR ANSWER BELOW
 obs1 = [22.9 , 26.08, 25.04, 22.09, 24.28, 31.3 , 25.47, 24.17, 23.42,
 25.64, 23.96, 23.94, 25.35, 20.92, 27.74, 25.93, 26.9 , 27.87,
 22.43, 23.73, 29.25, 25.66, 23.6 , 26.77, 17.38, 26.26, 17.67,
