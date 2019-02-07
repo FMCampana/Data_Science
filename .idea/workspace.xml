@@ -19,22 +19,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="152" />
+          <entry key="py" value="157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="152" />
+          <entry key="Python" value="157" />
         </counts>
       </usages-collector>
     </session>
@@ -44,9 +44,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-11">
               <caret column="12" selection-start-column="7" selection-end-column="12" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculate_Standard_Error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28" />
           </provider>
         </entry>
       </file>
@@ -71,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Confidence_Interval2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="170">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -83,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/T_Distribution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -267,14 +274,14 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24627976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24627976" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -291,13 +298,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Calculate_Standard_Error.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="7" selection-end-column="12" />
-        </state>
+        <state relative-caret-position="-28" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CLT.py">
@@ -307,13 +309,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Confidence_Interval2.py">
+    <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-11">
+          <caret column="12" selection-start-column="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -329,8 +328,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/T_Distribution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Confidence_Interval2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
