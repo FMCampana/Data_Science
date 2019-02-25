@@ -12,20 +12,22 @@
     <session id="-559587598">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -45,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
+            <state>
               <caret column="12" selection-start-column="7" selection-end-column="12" />
             </state>
           </provider>
@@ -54,7 +56,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calculate_Standard_Error.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28" />
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -67,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Visualization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -79,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/T_Distribution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="289">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -114,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="675" />
     <option name="width" value="698" />
     <option name="height" value="735" />
@@ -125,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +143,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -160,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Data_Visualization">
+  <component name="RunManager" selected="Python.Machine_Learning_W_Regression">
     <configuration name="CLT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,27 +209,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Confidence_Interval2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data_Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Confidence_Interval2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Data_Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +222,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Visualization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Machine_Learning_W_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data_Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning_W_Regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +273,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Confidence_Interval2" />
       <item itemvalue="Python.CLT" />
       <item itemvalue="Python.Confidence_Interval" />
       <item itemvalue="Python.T_Distribution" />
       <item itemvalue="Python.Data_Visualization" />
+      <item itemvalue="Python.Machine_Learning_W_Regression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Machine_Learning_W_Regression" />
         <item itemvalue="Python.Data_Visualization" />
         <item itemvalue="Python.T_Distribution" />
         <item itemvalue="Python.Confidence_Interval" />
         <item itemvalue="Python.CLT" />
-        <item itemvalue="Python.Confidence_Interval2" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +294,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24627976" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -309,35 +316,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Calculate_Standard_Error.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret column="12" selection-start-column="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/T_Distribution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Confidence_Interval2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -345,9 +327,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyProject/columbia11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hypothesis_Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -358,12 +347,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Calculate_Standard_Error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data_Visualization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T_Distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
